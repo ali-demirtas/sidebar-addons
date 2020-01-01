@@ -1,0 +1,12 @@
+{
+	"plugin-data":
+	{
+		"name": "Kenar Çubuğu Eklentileri",
+		"description": "Kenar çubuğunda rastgele veya önerilen sayfaları görüntüleyin."
+	},
+	"show-random-pages": "Rastgele Sayfaları Göster",
+    "show-recommended-pages": "Önerilen Sayfaları Göster",
+    "number-of-items": "Öğe sayısı",
+    "random-pages-label": "Rastgele Sayfa Etiketi",
+    "recommended-pages-label": "Önerilen Sayfa Etiketi"
+}
